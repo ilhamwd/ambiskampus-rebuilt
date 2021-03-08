@@ -35,7 +35,7 @@
       <li>Mobile (bottomsheet)</li>
     </ol>
   </li>
-  <ul>
+</ul>
 
 ## Features
 <i>Desktop and mobile version</i>
