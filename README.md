@@ -1,5 +1,6 @@
-# COMPONENTS
+# AMBISKAMPUS PROJECT
 
+## Components
 <ul>
   <li>Button
   <ol>
@@ -35,3 +36,24 @@
     </ol>
   </li>
   <ul>
+
+## Features
+<i>Desktop and mobile version</i>
+<ul>
+  <li>Tryout
+    <ol>
+      <li>Daftar list tryout</li>
+      <li>Layout pengerjaan tryout</li>
+      <li>Lihat nilai</li>
+      <li>Popup mengerjakan</li>
+      <li>History tryout</li>
+    </ol>
+  </li>
+  <li>Rangkuman materi</li>
+  <li>Bedah jurusan
+    <ol>
+      <li>Daftar list jurusan</li>
+      <li>Halaman baca bedah jurusan</li>
+    </ol>
+  </li>
+</ul>
